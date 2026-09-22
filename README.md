@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://buymeacoffee.com/fabian1512" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" width="210"></a>
+</p>
+
 # ebusd-configuration
 
 This repository serves vendor specific configuration files for [ebusd](https://github.com/john30/ebusd).
